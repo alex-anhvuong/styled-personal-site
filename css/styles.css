@@ -99,6 +99,7 @@ p {
   font-style: italic;
   font-size: 0.5rem;
   color: #66BFBF;
+  clear: both;
 }
 
 .butn {
